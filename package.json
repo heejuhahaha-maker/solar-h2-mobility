@@ -1,0 +1,6 @@
+{
+  "name": "solar-h2-mobility",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "npx serve . -l 4173" }
+}
